@@ -14,6 +14,7 @@ _This is a program to provide a list of all the numbers beginning at 1, counting
 | **Numbers divisible by 5 are replaced by "pong"** | User input: 5 | Output: "pong"|
 | **Numbers divisible by both 3 and 5 are replaced by "ping-pong"** | User input: 15 | Output: "ping-pong"|
 | **All numbers that are not devided by 5 or 3 return themselves** | User input: 4 | Output: 4|
+| **All numbers are printed 1 through user input** | User input: 4 | Output: 1 2 "ping" 4|
 
 ## Known Bugs
 
